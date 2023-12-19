@@ -22,5 +22,6 @@
 
 ## Get-Going-With-Gradle
 
-- Showing that I know what Gradle is and the basics of how it works with Java
+- Showing that I know what Gradle is and the basics of how it works with Java.
+- Simple test project saved showing practice with compiling and testing via Gradle
 - Achieved via "Get Going With Gradle" free course on <a href="gradlehero.com" target="_blank"> GradleHero.com </a>
